@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0cc6d0cf743706e4ab9b7fd33e3b0583
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - helpTextBoxObject: {instanceID: 0}
+  - dialogBoxObject: {instanceID: 0}
+  - contextClueEnable: {fileID: 11400000, guid: 9eca5c01044ab744fa635c295ce55110,
+      type: 2}
+  - contextClueDisable: {fileID: 11400000, guid: 8e9d7a0af8a028d42bf07ea2a4c013d7,
+      type: 2}
+  - item: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

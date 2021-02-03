@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99f765b46a9b25147aff152a0a5cb9de, type: 3}
+  m_Name: KeyItem
+  m_EditorClassIdentifier: 
+  itemSprite: {fileID: 2802632282990066778, guid: 433b8c5fc03989540944d1e646df2b42,
+    type: 3}
+  itemDescription: Small key, maybe there chest or door nearby?
+  isKey: 1
+  isArrow: 0
+  name: Small key
