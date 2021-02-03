@@ -389,7 +389,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 533407775, guid: 53e130403b04d104cb8664874dff264e, type: 3}
       propertyPath: dialogue.initSentences.Array.size
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 533407775, guid: 53e130403b04d104cb8664874dff264e, type: 3}
       propertyPath: dialogue.initSentences.Array.data[0]
@@ -397,7 +397,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 533407775, guid: 53e130403b04d104cb8664874dff264e, type: 3}
       propertyPath: dialogue.initSentences.Array.data[1]
-      value: Press "Left Ctr" with direction in order to Dash.
+      value: Try to use it as your second jump.
       objectReference: {fileID: 0}
     - target: {fileID: 533407775, guid: 53e130403b04d104cb8664874dff264e, type: 3}
       propertyPath: dialogue.initSentences.Array.data[2]
@@ -1222,7 +1222,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 533407775, guid: 53e130403b04d104cb8664874dff264e, type: 3}
       propertyPath: dialogue.initSentences.Array.size
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 533407775, guid: 53e130403b04d104cb8664874dff264e, type: 3}
       propertyPath: dialogue.initSentences.Array.data[0]
@@ -1230,7 +1230,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 533407775, guid: 53e130403b04d104cb8664874dff264e, type: 3}
       propertyPath: dialogue.initSentences.Array.data[1]
-      value: Hold "Shift" when jumping on wall.
+      value: 'Try to climb up there.
+
+'
       objectReference: {fileID: 0}
     - target: {fileID: 533407775, guid: 53e130403b04d104cb8664874dff264e, type: 3}
       propertyPath: dialogue.initSentences.Array.data[2]
@@ -4360,7 +4362,7 @@ PrefabInstance:
     - target: {fileID: 4329101416603518652, guid: 454c4cbb19cf66040aa90c138edd474d,
         type: 3}
       propertyPath: dialogue.initSentences.Array.size
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4329101416603518652, guid: 454c4cbb19cf66040aa90c138edd474d,
         type: 3}
